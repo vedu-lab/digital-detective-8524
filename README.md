@@ -52,6 +52,14 @@ digital-detective-8524/
 
 ---
 
+## My Learning
+Throughout the Digital Detective missions completed so far, I have gained substantial practical insights into computer architecture and systems engineering:
+1. **The IPOS Cycle and Hardware Coordination**: I deepened my understanding of how user keystrokes translate through hardware interrupts, CPU scheduling, and RAM buffers before rendering on displays or persisting to non-volatile flash storage (SSD).
+2. **Command-Line Precision and Stream Redirection**: Practicing UNIX terminal navigation reinforced the difference between overwriting (`>`) and appending (`>>`), how standard pipes (`|`) connect modular command streams without intermediary disk files, and how POSIX file permissions (`rwx`) protect multi-user systems.
+3. **Data Representation and Architecture**: Implementing the number converter clarified the mathematical symmetry between base 2, base 10, and base 16 representations, and how modern encoding standards like UTF-8 expand upon 7-bit ASCII to unify global digital communication.
+
+---
+
 ## Instructions for Running Programs
 
 ### 1. Running Hello Python (Mission 4)
