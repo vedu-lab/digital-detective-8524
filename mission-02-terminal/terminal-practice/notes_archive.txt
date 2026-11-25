@@ -1,0 +1,2 @@
+Line 1: Exploring Terminal operations.
+Line 2: Appending a second line safely.
